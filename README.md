@@ -6,7 +6,9 @@
 ```
 kitaplik uygulamasında kullanabileceğiniz komutlar :
 * search => arama işlemi için
-    Örnek kullanim: $ kitaplik search moby dick
+   Örnek kullanim:
+    $ ./kitaplik search moby dick
 * list => listeleme işlemi için
-    Örnek kullanim: $ kitaplik list
+   Örnek kullanim:
+    $ ./kitaplik list
 ```

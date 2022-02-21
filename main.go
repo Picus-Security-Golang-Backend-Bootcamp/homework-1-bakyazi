@@ -10,9 +10,11 @@ import (
 func printUsage() {
 	fmt.Println("kitaplik uygulamasında kullanabileceğiniz komutlar :")
 	fmt.Println("* search => arama işlemi için")
-	fmt.Println("    Örnek kullanim: $ kitaplik search moby dick")
+	fmt.Println("   Örnek kullanim:")
+	fmt.Println("    $ ./kitaplik search moby dick")
 	fmt.Println("* list => listeleme işlemi için")
-	fmt.Println("    Örnek kullanim: $ kitaplik list")
+	fmt.Println("   Örnek kullanim:")
+	fmt.Println("    $ ./kitaplik list")
 
 }
 
